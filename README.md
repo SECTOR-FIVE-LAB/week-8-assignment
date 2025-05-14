@@ -1,3 +1,4 @@
+![ERD](https://github.com/user-attachments/assets/42e843cb-6d0b-4bf0-b825-4ac23e2f5eb2)
 # 📌 ISP Management System – Database Schema
 
 ## 📄 Project Description
